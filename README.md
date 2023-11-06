@@ -27,7 +27,7 @@ Execute the program and run the terminal . Check the performance using nvprof.
 Developed by : Gayathri A
 Register Number : 212221230028
 
-# Commom.h :
+# Common.h :
 ```
 #ifndef _COMMON_H
 #define _COMMON_H
